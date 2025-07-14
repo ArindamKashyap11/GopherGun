@@ -6,7 +6,7 @@
 <br>
 
 **Crafted with ❤️ by EragonKashyap11**
-![Demo](GopherGun.png)
+![Demo](GopharGun.png)
 ---
 
 ### **Table of Contents**
